@@ -11,7 +11,7 @@
 **Home Work list:**
 
 - Homework 1: applications, advantages and tools of the web mining
-- HomeWork 2: Graph Partitioning Clustering - Terms (maximal clique & Single Link Clustering Method)
+- Homework 2: Graph Partitioning Clustering - Terms (maximal clique & Single Link Clustering Method)
 - Homework 3: RapidMiner - Classification and Clustering on a kaggle dataset about phishing websites
 - Homework 4: KNN on webpages - N=3
 - Homework 5: Graph Partitioning Clustering - Pages (maximal clique & Single Link Clustering Method)
