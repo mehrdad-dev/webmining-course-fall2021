@@ -3,6 +3,7 @@
 **semester:**  Fall 2021
 
 **lecturer:‌** [Dr. Mehrdad Jalali](https://scholar.google.com/citations?user=bRipP54AAAAJ&hl=en)
+
 **website:** https://mehrdad-dev.ir/webmining-course-fall2021/
 
 ***
