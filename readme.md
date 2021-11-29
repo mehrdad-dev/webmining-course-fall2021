@@ -20,7 +20,7 @@
 
 
 **My Presentations:**
-- How to Find Maximal Cliques in a Graph using Python & ​KNN Classification example using scikit-learn library - [jupyter notebook](../presentations/presentation1.ipynb) - [python code](../presentation1.py)
+- How to Find Maximal Cliques in a Graph using Python & ​KNN Classification example using scikit-learn library - [jupyter notebook](./presentations/presentation1.ipynb) - [python code](../presentation1.py)
 
 
 
