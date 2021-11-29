@@ -23,4 +23,5 @@
 - How to Find Maximal Cliques in a Graph using Python & ​KNN Classification example using scikit-learn library - [jupyter notebook](./presentations/presentation1.ipynb) - [python code](./presentations/presentation1.py)
 
 
-
+***
+**Licence:** [see licence](https://github.com/mehrdad-dev/webmining-course-fall2021/blob/main/LICENSE) 
