@@ -6,6 +6,8 @@
 
 **website:** https://mehrdad-dev.ir/webmining-course-fall2021/
 
+**tools:** Python, RapidMiner, Gephi
+
 ***
 
 **Home Work list:**
