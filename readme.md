@@ -22,6 +22,10 @@
 - Homework 8: Predict item score for a user in recommender system
 
 
+**Projects:**
+- design and implementation a recommender system [repo link](https://github.com/mehrdad-dev/Portrait-Painting-Recommendation)
+
+
 **My Presentations:**
 - How to Find Maximal Cliques in a Graph using Python & ​KNN Classification example using scikit-learn library - [jupyter notebook](./presentations/presentation1.ipynb) - [python code](./presentations/presentation1.py)
 
