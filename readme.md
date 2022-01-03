@@ -20,6 +20,9 @@
 - Homework 6: User Classification - KNN
 - Homework 7: Review an article about the recommender systems
 - Homework 8: Predict item score for a user in recommender system
+- Homework 9: Collaborative Filtering Recommender System For Movie (MovieLens Dataset, Python)
+- Homework 10: Item-based collaborative filtering
+- Homework 11: Analysis of a graph network using Gephi 
 
 
 **Projects:**
