@@ -6,6 +6,8 @@
 
 **website:** https://mehrdad-dev.ir/webmining-course-fall2021/
 
+**tools:** Python, RapidMiner, Gephi
+
 ***
 
 **Home Work list:**
@@ -17,6 +19,11 @@
 - Homework 5: Graph Partitioning Clustering - Pages (maximal clique & Single Link Clustering Method)
 - Homework 6: User Classification - KNN
 - Homework 7: Review an article about the recommender systems
+- Homework 8: Predict item score for a user in recommender system
+
+
+**Projects:**
+- design and implementation a recommender system [repo link](https://github.com/mehrdad-dev/Portrait-Painting-Recommendation)
 
 
 **My Presentations:**
