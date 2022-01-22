@@ -26,6 +26,7 @@
 
 
 **Projects:**
+![mehrdad mohammdian](/assets/project.png)
 - design and implementation a recommender system - [repo link](https://github.com/mehrdad-dev/Portrait-Painting-Recommendation) - [demo link](https://share.streamlit.io/mehrdad-dev/portrait-painting-recommendation/main/app.py)
 
 
