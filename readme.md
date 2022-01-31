@@ -1,6 +1,6 @@
 ## Web Mining and Social Networking Course
 
-**Semester:**  Fall 2021
+**Semester:**  Fall 2021 - Islamic Azad University, Mashhad branch
 
 **Lecturer:‌** [Dr. Mehrdad Jalali](https://scholar.google.com/citations?user=bRipP54AAAAJ&hl=en)
 
